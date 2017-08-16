@@ -53,6 +53,7 @@
 
 #### 08. HTML5拖放API小栗子
 + 使用html5中的拖放API实现网页中元素拖拽及本地资源显示在网页中等小栗子，具体原理请移步至[详解](http://www.jianshu.com/p/b7762be74511)
++ 请在chrome中打开，其他浏览器未做兼容！！！
 
 > [源码地址](https://github.com/visugar/FrontEnd-examples/blob/master/08H5%E6%8B%96%E6%94%BEAPI/index.html)
 
